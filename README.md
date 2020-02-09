@@ -15,8 +15,8 @@ The **In Progress** section is set up as a stack. The intent is to go down rabit
  Books        | Author           | Topic | Status |  Comment |
 | ------------|------------------| ------| -----  | ---------|
 | Head First Design Patterns  | Kathy Serra, | Design Patterns | Reading  | Reading this to get a first swipe coverage of design patterns then going back to the Gang of Four   | 
-| Design Pattern: Elements of Reusable OO Software     | Erich Gamma, ...  |  Design Patterns| Paused  | Decided to read the Head First book first |
 | Clean Coder    | Robert Martin  | Craftmanship | Reading  | Reading this alongside the design pattern books  |
+| Design Pattern: Elements of Reusable OO Software     | Erich Gamma, ...  |  Design Patterns| Paused  | Decided to read the Head First book first to get a easier introduction and then dive back into the Gang of 4 book |
 | Clean Architecture    | Robert Martin  | Software Design | Paused  | Paused this to jump down the design pattern rabbit hole |
 | Clean Code    | Robert Martin  | Craftmanship | Paused  | Paused to focus on more on the stucture and architecture components  |
 |     |   |  |   |  |
