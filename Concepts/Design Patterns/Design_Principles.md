@@ -73,3 +73,6 @@
 @enduml
 ```
 
+### 3. Favor composition over inheritance
+* Instead of inheriting behavior, classes get their behavior by being **composed** with the right behavior objects
+* Give more flexibility to the system
