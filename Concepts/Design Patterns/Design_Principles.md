@@ -76,3 +76,7 @@
 ### 3. Favor composition over inheritance
 * Instead of inheriting behavior, classes get their behavior by being **composed** with the right behavior objects
 * Give more flexibility to the system
+
+
+### 4. Strive for loosely coupled designs between objects that interact
+* Loosely coupled designs allow us to build flexible OO systems that can handle change because they minimize the interdependency between object. 
