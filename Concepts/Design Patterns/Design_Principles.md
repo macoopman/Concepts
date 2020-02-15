@@ -80,3 +80,8 @@
 
 ### 4. Strive for loosely coupled designs between objects that interact
 * Loosely coupled designs allow us to build flexible OO systems that can handle change because they minimize the interdependency between object. 
+
+### 5. Classes should be open for extension, but closed for modification
+*   Open-Closed Principle
+*   Allow classes to be easily extended to incorporate new behavior without modifying existing code.
+* Applying everywhere is wasteful and unneccesssary -> increased complexity
