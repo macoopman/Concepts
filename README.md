@@ -4,13 +4,13 @@ This repo is going to be my new home for all the notes and learned lesson from w
 
 
 
-## READING LIST
+## Study LIST
 
 Below are all the books that I have read, are reading, or have read since starting this repo. 
 
 The **In Progress** section is set up as a stack. The intent is to go down rabit holes as I see fit with the end goal of comming back to the orginal book
 
-### Reading List - In Progress (Stack)
+### Study List - In Progress (Stack)
 
  Books        | Author           | Topic | Status |  Comment |
 | ------------|------------------| ------| -----  | ---------|
@@ -22,7 +22,7 @@ The **In Progress** section is set up as a stack. The intent is to go down rabit
 | The Art of UNIX Programming | Eric Raymond| UNIX | Paused | Read the majority of then then need to dive deeper into OO software design for work |
 
 
-### Reading List - Completeed
+### Study List - Completeed
 
  Books        | Author           | Topic | Status |  Comment |
 | ------------|------------------| ------| -----  | ---------|
@@ -30,7 +30,7 @@ The **In Progress** section is set up as a stack. The intent is to go down rabit
 
 
 
-### Reading List - ToDo
+### Study List - ToDo
 
   Books        | Author           | Topic | Status |  Comment |
 | ------------|------------------| ------| -----  | ---------|

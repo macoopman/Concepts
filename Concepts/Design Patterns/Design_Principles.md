@@ -84,4 +84,4 @@
 ### 5. Classes should be open for extension, but closed for modification
 *   Open-Closed Principle
 *   Allow classes to be easily extended to incorporate new behavior without modifying existing code.
-* Applying everywhere is wasteful and unneccesssary -> increased complexity
+* Applying everywhere is wasteful and unneccesssary -> increased
