@@ -2,21 +2,20 @@ package CondimentDecorators;
 
 import BaseClasses.Beverage;
 
-public class Mocha extends CondimentDecorator {
+public class Whip extends CondimentDecorator {
    Beverage beverage;
 
-   public Mocha(Beverage beverage) {
+   public Whip(Beverage beverage) {
       this.beverage = beverage;
    }
 
    @Override
    public String getDescription() {
-      return beverage.getDescription() + ", Mocha";
+      return beverage.getDescription() + ", Whip";
    }
 
    @Override
    public double cost() {
-      return beverage.cost() + .20;
+      return beverage.cost() + .15;
    }
 }
-

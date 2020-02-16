@@ -2,7 +2,12 @@
 
 **Definition**
 
-    The Decorator Pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+The Decorator Pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+
+* Is a alternative to subclassing for extending behavior
+* Involves a set of decorator classes that are used to **wrap** concrete components
+* Decorator classes are the same **TYPE** as the components they decorate
+* 
 
 ### General Example
 ```plantuml
