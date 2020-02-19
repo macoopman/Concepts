@@ -17,6 +17,7 @@ The **In Progress** section is set up as a stack. The intent is to go down rabit
 | Head First Design Patterns  | Kathy Serra, | Design Patterns | Reading  | Reading this to get a first swipe coverage of design patterns then going back to the Gang of Four   | 
 | Clean Coder    | Robert Martin  | Craftmanship | Reading  | Reading this alongside the design pattern books  |
 | Design Pattern: Elements of Reusable OO Software     | Erich Gamma, ...  |  Design Patterns| Paused  | Decided to read the Head First book first to get a easier introduction and then dive back into the Gang of 4 book |
+| Agile Principles, Patterns, and Practices in C# | Robert Martin | Software Desgin | Paused | Paused to dive deeper into design patterns |
 | Clean Architecture    | Robert Martin  | Software Design | Paused  | Read this whole book quickly. Plan to re-read it after the design pattern books |
 | Clean Code    | Robert Martin  | Craftmanship | Paused  | Paused to focus on more on the stucture and architecture components  |
 | The Art of UNIX Programming | Eric Raymond| UNIX | Paused | Read the majority of then then need to dive deeper into OO software design for work |
