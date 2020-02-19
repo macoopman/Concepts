@@ -85,3 +85,14 @@
 *   Open-Closed Principle
 *   Allow classes to be easily extended to incorporate new behavior without modifying existing code.
 * Applying everywhere is wasteful and unneccesssary -> increased
+
+
+### 6. Depend upon bstractions. Do not depend upon concrete classes
+* Dependency Inversion Principle
+* Guidelines
+    * No variable should hold a reference to a concrete class
+        * if you use **new**, you'll be holding a reference to a concrete class. Use a factory to get around that!
+    * No class should derive from a concrete class
+        * If you derive from a concrete class, you're depending on a concrete class. Derive from an abstraction, like and interface or an abstract class
+    * No method should override and implemented method of any of its base classes
+        * If you override an implemented method, then your base class wasn't really an abstraction to start with. Those methods implemented in the base class are ment to be shared by all your subclassesses

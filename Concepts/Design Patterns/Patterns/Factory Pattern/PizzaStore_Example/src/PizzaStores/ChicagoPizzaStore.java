@@ -1,3 +1,7 @@
+package PizzaStores;
+
+import PizzaTypes.*;
+
 public class ChicagoPizzaStore extends PizzaStore {
    @Override
    Pizza createPizza(String item) {
