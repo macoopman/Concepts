@@ -96,3 +96,6 @@
         * If you derive from a concrete class, you're depending on a concrete class. Derive from an abstraction, like and interface or an abstract class
     * No method should override and implemented method of any of its base classes
         * If you override an implemented method, then your base class wasn't really an abstraction to start with. Those methods implemented in the base class are ment to be shared by all your subclassesses
+
+### 7. Principle of Least Knowledge: Talk only to your immediate friends
+* When designing a system, for any object, be careful of the number of classes it interacts with and also how it comes to interact with those classes
