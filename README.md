@@ -35,6 +35,9 @@ The **In Progress** section is set up as a stack. The intent is to go down rabit
 
   Books        | Author           | Topic | Status |  Comment |
 | ------------|------------------| ------| -----  | ---------|
-| The Practice of Programming | Brian Kernighan | Programming | N/A  | Bought this just need to read |
+| The Practice of Programming | Brian Kernighan | Programming | N/A  | Bought this, just need to read |
+| Mythical Man-Month | Frederick Brooks | Software Development | N/A  |  |
+| The Pragmatic Programmer | Andrew Hunt, David Thomas | Software Development | N/A  |  |
 | Core Java Volume I—Fundamentals |  Cay S. Horstmann | JAVA | N/A  | Need to learn my tools better |
 | Core Java Volume II—Advanced Features |  Cay S. Horstmann | JAVA | N/A  | Need to learn my tools better |
+| Jenkins 2: Up and Running | Brent Laster | CI | N/A  | Might be a good intro to CI/Devops |
