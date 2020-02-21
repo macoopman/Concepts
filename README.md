@@ -26,7 +26,7 @@ The **In Progress** section is set up as a stack. The intent is to go down rabit
 
  Books        | Author           | Topic | Status |  Comment |
 | ------------|------------------| ------| -----  | ---------|
-| Clean Coder    | Robert Martin  | Craftmanship | Reading  | Reading this alongside the design pattern books  |
+| Clean Coder    | Robert Martin  | Craftmanship | Complete  | Reading this alongside the design pattern books  |
 |     |   |  |   |  |
 
 
