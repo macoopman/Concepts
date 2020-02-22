@@ -86,4 +86,50 @@ endnote
 
 @enduml
 ```
+---
 
+## Composite Pattern
+
+**Definition**
+
+The **Composite Pattern** allows you to compose objects into tree structures to represen part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+
+* **Part-Whole**: a tree of objects hat is made of parts but that can be treated as a whole.
+* The **Composite Pattern** allows us to build structures of objects in the from of **trees** that contain both composition of objects and individual objects as nodes
+* Can ignore the differences b/t compositions of objects and individual objects 
+
+NOTE:
+
+Because using all operations in both the Compoite and the Leaf does not make since the default behavior is **UnsupportedOperationException**
+
+```plantuml
+@startuml
+
+class Client
+
+abstract class Component {
+    operation()
+    add(Component)
+    remove(Component)
+    getChild(int)
+}
+class Leaf
+class Composite {
+    operation()
+    add(Component)
+    remove(Component)
+    getChild(int)
+}
+
+Client -> Component
+Component <|-- Leaf
+Component <|-- Composite
+Composite --> Component
+
+@enduml
+
+```
+* **Client**: Uses the Component interface to manipulate the objects in the composition.
+* **Component**: Defines an interface for all objects in the composition: both the composite and the leaf node
+    * May implement a default behavior for add(), remove(), getChild(), and its operations
+* **Composite**: Role is to define behavior of the components having children and to store child components.   
