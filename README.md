@@ -16,9 +16,9 @@ The **In Progress** section is set up as a stack. The intent is to go down rabit
 | Book | Author | Topic | Status |  Date Start | Date Finish | Comment |
 |------|--------|--------|--------|--------|--------|--------|
 | C++ Primer  | Lippman... | Programming |Reading | 2/27/2020 | N/A | Highly recommend book. Hope to get good refresher on C++ | 
-| The Practice of Programming  | Kernighan & Pike | Programming |Reading | 2/27/2020 | N/A | Classic book, sure to find some good nuggets | 
-| The Art of UNIX Programming  | Raymond | OS |Reading | 2/27/2020 | N/A | Awesome insight into how UNIX evolved. Started this a while ago, but going to restart | 
-| AGile Software Development  | Martin | Software Develpment |Reading | 2/27/2020 | N/A | Read most of the C# version, but bought the original edition for the c++ examples | 
+| The Practice of Programming  | Kernighan & Pike | Programming |Reading | - | N/A | Classic book, sure to find some good nuggets | 
+| The Art of UNIX Programming  | Raymond | OS |Reading | - | N/A | Awesome insight into how UNIX evolved. Started this a while ago, but going to restart | 
+| Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation  | Humble & Farley | Continuous Delivery |Reading | 2/27/2020 | N/A | A first read into CD | 
 
 ### Study List - In Progress (Stack) --- HOLD
 
@@ -46,7 +46,9 @@ The **In Progress** section is set up as a stack. The intent is to go down rabit
 
   Books        | Author           | Topic | Status |  Comment |
 | ------------|------------------| ------| -----  | ---------|
-| The Practice of Programming | Brian Kernighan | Programming | N/A  | Bought this, just need to read |
+| Advanced Programming in the Unix Enviorment | Stevens | OS/UNIX | N/A  | Recommended in The Art of UNIX Programming |
+| The Unix Programming Environment | Kernighan & Pike | OS/UNIX | N/A  | Recommended in The Art of UNIX Programming |
+| The Unix Philosophy | Gancarz | OS/UNIX | N/A  | Recommended in The Art of UNIX Programming -> covers much of the same ground |
 | Mythical Man-Month | Frederick Brooks | Software Development | N/A  |  |
 | The Pragmatic Programmer | Andrew Hunt, David Thomas | Software Development | N/A  |  |
 | Core Java Volume I—Fundamentals |  Cay S. Horstmann | JAVA | N/A  | Need to learn my tools better |
