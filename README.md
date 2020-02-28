@@ -10,7 +10,17 @@ Below are all the books that I have read, are reading, or have read since starti
 
 The **In Progress** section is set up as a stack. The intent is to go down rabit holes as I see fit with the end goal of comming back to the orginal book
 
-### Study List - In Progress (Stack)
+### Current Reading List 
+* I have a huge love of reading, but I find that I easily find myself drifting to new topics as I get deeper into longer technical books. There is just so much I want to read and learn. So my plan over then next bit of time is to try reading multiple books at the same time. I have some ideas about maintain balance of topics and lenth of time to commit to one book before switching, but at first I'm going to start with a pile I have at home and start with switching every chapter or so.
+
+| Book | Author | Topic | Status |  Date Start | Date Finish | Comment |
+|------|--------|--------|--------|--------|--------|--------|
+| C++ Primer  | Lippman... | Programming |Reading | 2/27/2020 | N/A | Highly recommend book. Hope to get good refresher on C++ | 
+| The Practice of Programming  | Kernighan & Pike | Programming |Reading | 2/27/2020 | N/A | Classic book, sure to find some good nuggets | 
+| The Art of UNIX Programming  | Raymond | OS |Reading | 2/27/2020 | N/A | Awesome insight into how UNIX evolved. Started this a while ago, but going to restart | 
+| AGile Software Development  | Martin | Software Develpment |Reading | 2/27/2020 | N/A | Read most of the C# version, but bought the original edition for the c++ examples | 
+
+### Study List - In Progress (Stack) --- HOLD
 
  Books        | Author           | Topic | Status |  Comment |
 | ------------|------------------| ------| -----  | ---------|
